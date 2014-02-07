@@ -23,3 +23,7 @@ USAGE :
 	1. Go to the Magento Admin Panel -> System -> Configuration -> Catalog -> Seo Options
 	2. Select yes or no from "Use Parent Category Path for Category URLs"
 	3. Refresh category url index
+	
+
+Option YES => www.domain.com/cat1/cat2
+Option NO  => www.domain.com/cat2
