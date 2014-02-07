@@ -7,9 +7,7 @@ This module adds a yes/no option labelled as "Use Parent Category Path for Categ
 
 Magento Admin Panel -> System -> Configuration -> Catalog -> Seo Options
 
-to remove parent category path from url and change it 
-from www.domain.com/cat1/cat2 
-to www.domain.com/cat2
+to remove parent category path from url and change it from www.domain.com/cat1/cat2 to www.domain.com/cat2
 
 USAGE :
 
