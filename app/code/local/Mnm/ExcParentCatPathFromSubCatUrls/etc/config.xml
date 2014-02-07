@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Mnm_ExcParentCatPathFromSubCatUrls>
+      <version>0.1.0</version>
+    </Mnm_ExcParentCatPathFromSubCatUrls>
+  </modules>
+  <global>
+    <helpers>
+      <excparentcatpathfromsubcaturls>
+        <class>Mnm_ExcParentCatPathFromSubCatUrls_Helper</class>
+      </excparentcatpathfromsubcaturls>
+    </helpers>
+	<models>
+	  <excparentcatpathfromsubcaturls>
+		<class>Mnm_ExcParentCatPathFromSubCatUrls_Model</class>
+		<resourceModel>excparentcatpathfromsubcaturls_mysql4</resourceModel>
+	  </excparentcatpathfromsubcaturls>
+			<enterprise_catalog>
+				<rewrite>
+					<index_action_url_rewrite_category_refresh>Mnm_ExcParentCatPathFromSubCatUrls_Model_Catalog_Index_Action_Url_Rewrite_Category_Refresh</index_action_url_rewrite_category_refresh>
+				</rewrite>
+			</enterprise_catalog>
+	</models>
+  </global>
+</config> 

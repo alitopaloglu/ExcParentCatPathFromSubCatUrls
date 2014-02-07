@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Mnm_ExcParentCatPathFromSubCatUrls>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+    </Mnm_ExcParentCatPathFromSubCatUrls>
+  </modules>
+</config>
