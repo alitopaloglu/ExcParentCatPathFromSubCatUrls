@@ -16,7 +16,7 @@ class Mnm_ExcParentCatPathFromSubCatUrls_Model_Catalog_Index_Action_Url_Rewrite_
 			$requestPath = (!empty($requestPath) ? $requestPath . '/' : '') . $category->getUrlKey();
 		}else{
 			$requestPath = $category->getUrlKey();
-		}
+		} 
         $requestPath = $this->_cutRequestPath($requestPath);
         $urlKeyValue = $this->_getUrlKeyAttributeValueId($category, $store);
         if (empty($urlKeyValue) && empty($urlKeyValue['value_id'])) {
