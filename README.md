@@ -1,6 +1,8 @@
 ExcParentCatPathFromSubCatUrls
 ==============================
 
+ATTENTION - DEVELOPED FOR ONLY MAGENTO ENTERPRISE EDITION 1.13
+
 This module adds a yes/no option labelled as "Use Parent Category Path for Category URLs" on 
 
 Magento Admin Panel -> System -> Configuration -> Catalog -> Seo 
