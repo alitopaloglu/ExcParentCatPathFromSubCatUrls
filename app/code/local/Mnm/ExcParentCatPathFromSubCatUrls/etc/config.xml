@@ -16,11 +16,11 @@
 		<class>Mnm_ExcParentCatPathFromSubCatUrls_Model</class>
 		<resourceModel>excparentcatpathfromsubcaturls_mysql4</resourceModel>
 	  </excparentcatpathfromsubcaturls>
-			<enterprise_catalog>
-				<rewrite>
-					<index_action_url_rewrite_category_refresh>Mnm_ExcParentCatPathFromSubCatUrls_Model_Catalog_Index_Action_Url_Rewrite_Category_Refresh</index_action_url_rewrite_category_refresh>
-				</rewrite>
-			</enterprise_catalog>
+		<enterprise_catalog>
+			<rewrite>
+				<index_action_url_rewrite_category_refresh>Mnm_ExcParentCatPathFromSubCatUrls_Model_Catalog_Index_Action_Url_Rewrite_Category_Refresh</index_action_url_rewrite_category_refresh>
+			</rewrite>
+		</enterprise_catalog>
 	</models>
   </global>
 </config> 
