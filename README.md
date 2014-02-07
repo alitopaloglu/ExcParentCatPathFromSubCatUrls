@@ -26,4 +26,5 @@ USAGE :
 	
 
 Option YES => www.domain.com/cat1/cat2
+
 Option NO  => www.domain.com/cat2
